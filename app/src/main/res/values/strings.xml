@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alarm List</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="agr_placeholder">Enter alarm name</string>
+    <string name="agr_date">Date</string>
+    <string name="agr_time">Time</string>
+    <string name="cln_default">Alarm list name</string>
+</resources>
